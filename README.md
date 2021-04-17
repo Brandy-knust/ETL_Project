@@ -29,6 +29,12 @@ Use of publicly available dataset to download the Amazon Top 50 Bestselling data
 ### Goodreads (https://www.goodreads.com)
 Use of publicly available book information to scrape needed data.
 
+## Files
+
+* [ETLProject_v2.ipynb](ETLProject_v2.ipynb) - Main script to extract and analyze
+* [Book_Scrape_v2.ipynb](Book_Scrape_v2.ipynb) - Scraping and export data
+* [SQLETL.sql](SQLETL.sql) - Clean up data
+
 ## Rough Breakdown of Tasks
 
 * Data identification
