@@ -4,6 +4,8 @@
 
 Race and Social Justice in Literature
 
+![result](images/result.png)
+
 ## Team Members
 
 * Brandy Knust
